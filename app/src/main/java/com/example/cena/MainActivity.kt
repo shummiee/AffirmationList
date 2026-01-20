@@ -71,7 +71,6 @@ fun AffirmationsApp() {
         )
     }
 }
-//v
 @Composable
 fun AffirmationsList(
     affirmationList: List<Affirmation>,

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+
+    <string name="affirmation1">I am strong, capable, and growing every day.</string>
+    <string name="affirmation2">I believe in myself and trust my journey.</string>
+    <string name="affirmation3">Each day is a new opportunity to become a better version of me.</string>
+    <string name="affirmation4">I choose positivity.</string>
+    <string name="affirmation5">I am capable.</string>
+    <string name="affirmation6">I trust the process.</string>
+    <string name="affirmation7">I am enough.</string>
+    <string name="affirmation8">I grow every day.</string>
+    <string name="affirmation9">I am grateful.</string>
+    <string name="affirmation10">I deserve good things.</string>
+
+</resources>
